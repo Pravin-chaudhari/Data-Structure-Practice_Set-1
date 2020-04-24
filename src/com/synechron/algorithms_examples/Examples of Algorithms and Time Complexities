@@ -1,0 +1,10 @@
+	
+   	
+	
+	a. O(1) 	 = Fetching Array element with given index 
+	b. O(N) 	 = Linear Search on a array
+	c. O(log N)  = Binary Search on a given array
+	d. O(N logN) = Merge Sort
+	e. O(MN) 	 = 2D Array Traversal of size MxN
+	f. O(N^2) 	 = Bubble sort, Selection Sort
+	g. O(N^3)	 = 3D Array Traversal
